@@ -1,3 +1,5 @@
+<p><img align="center" src="https://github.com/SimonJpg2/SimonJpg2/blob/main/Banner.png" /></p>
+
 <h1 align="center">Hi, I'm Simon<h1/>
 <h3 align="center">A student of the school Landrat-Gruber-Schule Dieburg<h3/>
 <img align ="center" src="https://github.com/SimonJpg2/SimonJpg2/blob/main/LGS_Logo_2018.png">
