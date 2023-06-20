@@ -32,6 +32,6 @@
 
 <h3 align="left">My Github stats<h3/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SimonJpg2&show_icons=true&theme=dracula" alt="SimonJpg2" /><p/>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SimonJpg2&show_icons=true&theme=dracula" alt="SimonJpg2" /><p/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonJpg2&layout=compact" alt="SimonJpg2" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SimonJpg2&layout=compact" alt="SimonJpg2" /></p>
