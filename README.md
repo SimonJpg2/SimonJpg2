@@ -16,7 +16,7 @@
 
 🔭 I'm currently working on a school project
 
-🌱 I'm currently learning Java
+🌱 I'm currently learning Java and basics of Assembly
 
 📫 How to reach me [Discord](https://discord.com) @simonjpg
 
