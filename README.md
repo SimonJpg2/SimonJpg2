@@ -1,22 +1,14 @@
 <p><img align="center" src="https://github.com/SimonJpg2/SimonJpg2/blob/main/Banner.png" /></p>
 
 <h1 align="center">Hi, I'm Simon<h1/>
-<h3 align="center">A student of the school Landrat-Gruber-Schule Dieburg<h3/>
-<img align ="center" src="https://github.com/SimonJpg2/SimonJpg2/blob/main/LGS_Logo_2018.png">
-
-<h3 align="left">References<h3/>
-
-[Landrat-Gruber-Schule Github](https://github.com/lgs-dieburg)
-
-[Landrat-Gruber-Schule Homepage](https://www.lgs-dieburg.de/)
 
 ***
 
 <h3 align="left">About me<h3/>
 
-🔭 I'm currently working on a school project
+🔭 I'm currently working at my hypr config files
 
-🌱 I'm currently learning Java and basics of Assembly
+🌱 I'm currently learning C++
 
 📫 How to reach me [Discord](https://discord.com) @simonjpg
 
