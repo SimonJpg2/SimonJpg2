@@ -6,7 +6,7 @@
 
 <h3 align="left">About me<h3/>
 
-🔭 I'm currently working at my hypr config files
+🔭 I'm currently working on my hypr config files
 
 🌱 I'm currently learning C++
 
